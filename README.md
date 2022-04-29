@@ -17,6 +17,7 @@ Reporting : - for the reporting I am using allure. Allure report will have scree
 Logger : For the logging purpose I am using custom logger
 Screenshots : - I have written the code to attach screenshot to allure in case of failure, also capturing screenshot on app launch and few other places.
 
+All the desired capablities are available under **DriverClass.py** file which is available in base package. Please change the app path. App is present under data package.
 
 to run the project
 
