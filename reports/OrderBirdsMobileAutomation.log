@@ -1,0 +1,192 @@
+29/04/22 02:58:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Echo Box
+29/04/22 02:58:05 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Echo Box
+29/04/22 02:58:05 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 02:58:06 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 02:58:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 02:58:07 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 02:58:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 02:58:07 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 02:58:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :savedMessage
+29/04/22 02:58:07 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :savedMessage
+29/04/22 02:58:08 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 02:58:08 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 02:58:09 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 02:58:09 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 02:58:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 02:58:09 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 02:58:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 02:58:09 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 02:58:10 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :savedMessage
+29/04/22 02:58:10 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :savedMessage
+29/04/22 02:58:10 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 02:58:10 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 02:58:11 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 02:58:11 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 02:58:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 02:58:11 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 02:58:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 02:58:11 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 02:58:11 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :savedMessage
+29/04/22 02:58:11 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :savedMessage
+29/04/22 02:58:12 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 02:58:12 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 02:58:12 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 02:58:13 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 02:58:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 02:58:13 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 02:58:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 02:58:13 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 02:58:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :savedMessage
+29/04/22 02:58:13 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :savedMessage
+29/04/22 03:02:03 PM Friday - <module> - INFO : launching App
+29/04/22 03:02:03 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Echo Box
+29/04/22 03:02:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Echo Box
+29/04/22 03:02:03 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 03:02:04 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 03:02:04 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 03:02:04 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 03:02:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 03:02:05 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 03:02:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :savedMessage
+29/04/22 03:02:05 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :savedMessage
+29/04/22 03:02:05 PM Friday - <module> - INFO : launching App
+29/04/22 03:02:05 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 03:02:06 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 03:02:06 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 03:02:06 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 03:02:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 03:02:07 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 03:02:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 03:02:07 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 03:02:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :savedMessage
+29/04/22 03:02:07 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :savedMessage
+29/04/22 03:02:08 PM Friday - <module> - INFO : launching App
+29/04/22 03:02:08 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 03:02:08 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 03:02:09 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 03:02:09 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 03:02:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 03:02:09 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 03:02:10 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 03:02:10 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 03:02:10 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :savedMessage
+29/04/22 03:02:10 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :savedMessage
+29/04/22 03:02:10 PM Friday - <module> - INFO : launching App
+29/04/22 03:02:10 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 03:02:11 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 03:02:11 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 03:02:12 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 03:02:12 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 03:02:12 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 03:02:12 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 03:02:12 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 03:02:13 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :savedMessage
+29/04/22 03:02:13 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :savedMessage
+29/04/22 03:18:25 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :List Demo
+29/04/22 03:18:25 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :List Demo
+29/04/22 03:18:25 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Check out these clouds
+29/04/22 03:18:26 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Check out these cloudsis displayed 
+29/04/22 03:18:26 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Cirrus
+29/04/22 03:18:26 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Cirrus
+29/04/22 03:18:29 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Fog
+29/04/22 03:18:30 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Fog
+29/04/22 03:18:33 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Stratocumulus
+29/04/22 03:18:33 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Stratocumulus
+29/04/22 03:18:34 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Check out these clouds
+29/04/22 03:18:34 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Check out these cloudsis displayed 
+29/04/22 03:18:35 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Stratocumulus
+29/04/22 03:18:35 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Stratocumulus
+29/04/22 03:18:36 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Check out these clouds
+29/04/22 03:18:36 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Check out these cloudsis displayed 
+29/04/22 03:35:31 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Login Screen
+29/04/22 03:35:31 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Login Screen
+29/04/22 03:35:31 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Login
+29/04/22 03:35:31 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Loginis displayed 
+29/04/22 03:35:57 PM Friday - BasePage - INFO : Element not found with LocatorType: name and with the locatorValue :username_LOL
+29/04/22 03:35:58 PM Friday - BasePage - INFO : Unable to send text on Element with LocatorType: name and with the locatorValue :username_LOL
+29/04/22 03:36:23 PM Friday - BasePage - INFO : Element not found with LocatorType: name and with the locatorValue :username_LOL
+29/04/22 03:36:24 PM Friday - BasePage - INFO : Unable to send text on Element with LocatorType: name and with the locatorValue :username_LOL
+29/04/22 04:01:59 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Login Screen
+29/04/22 04:01:59 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Login Screen
+29/04/22 04:01:59 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Login
+29/04/22 04:01:59 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Loginis displayed 
+29/04/22 04:01:59 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :username
+29/04/22 04:02:00 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :username
+29/04/22 04:02:00 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :password
+29/04/22 04:02:01 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :password
+29/04/22 04:02:01 PM Friday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue :(//XCUIElementTypeOther[@name="loginBtn"])[2]
+29/04/22 04:02:02 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue :(//XCUIElementTypeOther[@name="loginBtn"])[2]
+29/04/22 04:02:02 PM Friday - BasePage - INFO : Screenshot save to Path : ../screenshots/Login Screenshot_29_04_22_16_02_02.png
+29/04/22 04:02:02 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Secret Area
+29/04/22 04:02:02 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Secret Areais displayed 
+29/04/22 04:02:02 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :You are logged in as alice
+29/04/22 04:02:02 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :You are logged in as alice
+29/04/22 04:02:03 PM Friday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue :(//XCUIElementTypeOther[@name="Logout"])[2]
+29/04/22 04:02:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue :(//XCUIElementTypeOther[@name="Logout"])[2]
+29/04/22 04:02:03 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :username
+29/04/22 04:02:04 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :username
+29/04/22 04:02:04 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :password
+29/04/22 04:02:04 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :password
+29/04/22 04:02:05 PM Friday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue :(//XCUIElementTypeOther[@name="loginBtn"])[2]
+29/04/22 04:02:05 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue :(//XCUIElementTypeOther[@name="loginBtn"])[2]
+29/04/22 04:02:05 PM Friday - BasePage - INFO : Screenshot save to Path : ../screenshots/Login Screenshot_29_04_22_16_02_05.png
+29/04/22 04:04:26 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Login Screen
+29/04/22 04:04:26 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Login Screen
+29/04/22 04:04:26 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Login
+29/04/22 04:04:26 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Loginis displayed 
+29/04/22 04:04:26 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :username
+29/04/22 04:04:27 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :username
+29/04/22 04:04:27 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :password
+29/04/22 04:04:27 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :password
+29/04/22 04:04:28 PM Friday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue :(//XCUIElementTypeOther[@name="loginBtn"])[2]
+29/04/22 04:04:28 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue :(//XCUIElementTypeOther[@name="loginBtn"])[2]
+29/04/22 04:04:28 PM Friday - BasePage - INFO : Screenshot save to Path : ../screenshots/Login Screenshot_29_04_22_16_04_28.png
+29/04/22 04:04:29 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Secret Area
+29/04/22 04:04:29 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Secret Areais displayed 
+29/04/22 04:04:29 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :You are logged in as alice
+29/04/22 04:04:29 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: id and with the locatorValue :You are logged in as alice
+29/04/22 04:04:29 PM Friday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue :(//XCUIElementTypeOther[@name="Logout"])[2]
+29/04/22 04:04:29 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue :(//XCUIElementTypeOther[@name="Logout"])[2]
+29/04/22 04:04:29 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :username
+29/04/22 04:04:30 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :username
+29/04/22 04:04:30 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :password
+29/04/22 04:04:31 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :password
+29/04/22 04:04:32 PM Friday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue :(//XCUIElementTypeOther[@name="loginBtn"])[2]
+29/04/22 04:04:32 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue :(//XCUIElementTypeOther[@name="loginBtn"])[2]
+29/04/22 04:04:32 PM Friday - BasePage - INFO : Screenshot save to Path : ../screenshots/Login Screenshot_29_04_22_16_04_32.png
+29/04/22 04:04:59 PM Friday - <module> - INFO : launching App
+29/04/22 04:05:00 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Echo Box
+29/04/22 04:05:00 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :Echo Box
+29/04/22 04:05:00 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 04:05:01 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 04:05:01 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 04:05:01 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 04:05:01 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 04:05:01 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 04:05:01 PM Friday - <module> - INFO : launching App
+29/04/22 04:05:02 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 04:05:02 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 04:05:03 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 04:05:03 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 04:05:03 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 04:05:03 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 04:05:03 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 04:05:03 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 04:05:03 PM Friday - <module> - INFO : launching App
+29/04/22 04:05:03 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 04:05:04 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 04:05:04 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 04:05:04 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 04:05:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 04:05:05 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 04:05:05 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 04:05:05 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
+29/04/22 04:05:05 PM Friday - <module> - INFO : launching App
+29/04/22 04:05:05 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 04:05:06 PM Friday - BasePage - INFO : Getting text on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 04:05:06 PM Friday - BasePage - INFO : Element found with LocatorType: name with the locatorValue :messageInput
+29/04/22 04:05:07 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: name and with the locatorValue :messageInput
+29/04/22 04:05:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :messageSaveBtn
+29/04/22 04:05:07 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :messageSaveBtn
+29/04/22 04:05:07 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :Here's what you said before:
+29/04/22 04:05:07 PM Friday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :Here's what you said before:is displayed 
